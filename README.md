@@ -1,8 +1,9 @@
 ## Oi, sou o Gabriel Grécia 👋
 
-🎓 Estudante de Sistemas de Informação <br>
+🎓 Estudante de Sistemas de Informação. <br>
+💸 Atualmente desenvolvendo o aplicativo Poupe Fácil, um sistema voltado ao controle de finanças pessoais. <br>
 🧩 Tenho interesse em desenvolvimento fullstack, atuando tanto no frontend, com foco em interfaces intuitivas, quanto no backend, estruturando APIs, lógica de negócio e integração com bancos de dados. <br>
-🌱 Sempre aprendendo algo novo — atualmente estudando a desenvolver em Python  
+🌱 Sempre aprendendo algo novo — atualmente estudando a desenvolver em Python. <br>
 
 ---
 
