@@ -22,6 +22,12 @@
 
 ---
 
+## Projeto em destaque
+
+- [Poupe Fácil](https://github.com/Grecia702/projeto-TCC) — App para gerenciar finanças pessoais.
+
+---
+
 ## 📊 Estatísticas
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grecia702&show_icons=true&theme=radical)
