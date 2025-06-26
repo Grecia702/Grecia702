@@ -1,5 +1,20 @@
 ## Gabriel Grécia 👋
 
+🎓 Estudante de Sistemas de Informação
+🌱 Sempre aprendendo algo novo — atualmente estudando a desenvolver em Python  
+
+## 🛠️ Tecnologias e Ferramentas
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+## Contato 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.lena81@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grecia702)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grecia702&layout=compact)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grecia702&show_icons=true&theme=radical)
