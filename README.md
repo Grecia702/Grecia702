@@ -1,6 +1,6 @@
 ## Gabriel Grécia 👋
 
-🎓 Estudante de Sistemas de Informação
+🎓 Estudante de Sistemas de Informação <br>
 🌱 Sempre aprendendo algo novo — atualmente estudando a desenvolver em Python  
 
 ## 🛠️ Tecnologias e Ferramentas
