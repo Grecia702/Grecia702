@@ -10,13 +10,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## Contato 
+## ☎️ Contato 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.lena81@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grecia702)
 
+## 📊 Estatísticas
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grecia702&layout=compact)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grecia702&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grecia702&theme=radical)](https://git.io/streak-stats)
