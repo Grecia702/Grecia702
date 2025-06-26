@@ -1,7 +1,10 @@
-## Gabriel Grécia 👋
+## Oi, sou o Gabriel Grécia 👋
 
 🎓 Estudante de Sistemas de Informação <br>
+🧩 Tenho interesse em desenvolvimento fullstack, atuando tanto no frontend, com foco em interfaces intuitivas, quanto no backend, estruturando APIs, lógica de negócio e integração com bancos de dados. <br>
 🌱 Sempre aprendendo algo novo — atualmente estudando a desenvolver em Python  
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -10,10 +13,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+---
+
 ## ☎️ Contato 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.lena81@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grecia702)
+
+---
 
 ## 📊 Estatísticas
 
