@@ -3,7 +3,7 @@
 🎓 Formado em Sistemas de Informação. <br>
 💸 Atualmente desenvolvendo o aplicativo Poupe Fácil, um sistema voltado ao controle de finanças pessoais. <br>
 🧩 Tenho interesse em desenvolvimento fullstack, atuando tanto no frontend, com foco em interfaces intuitivas, quanto no backend, estruturando APIs, lógica de negócio e integração com bancos de dados. <br>
-🌱 Sempre aprendendo algo novo, atualmente estudando programação em Python. <br>
+🌱 Atualmente estudando programação em Python. <br>
 
 ---
 
@@ -15,8 +15,10 @@
 ---
 ## 🛠️ Tecnologias e Ferramentas
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -25,6 +27,7 @@
 ## Projeto em destaque
 
 - [Poupe Fácil](https://github.com/Grecia702/projeto-TCC) — App para gerenciar finanças pessoais.
+- [Driveubas](https://github.com/Grecia702/driveubas) — Website de servidor de gerenciamento de arquivos.
 
 ---
 
