@@ -26,8 +26,8 @@
 
 ## Projeto em destaque
 
-- [Poupe Fácil](https://github.com/Grecia702/projeto-TCC) — App para gerenciar finanças pessoais.
-- [Driveubas](https://github.com/Grecia702/driveubas) — Website de servidor de gerenciamento de arquivos.
+- [Poupe Fácil](https://github.com/Grecia702/projeto-TCC) — App mobile de gerenciamento de finanças pessoais.
+- [Driveubas](https://github.com/Grecia702/driveubas) — Website de servidor de armazenamento gerenciamento de arquivos.
 
 ---
 
