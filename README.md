@@ -1,9 +1,4 @@
-## Oi, sou o Gabriel Grécia 👋
-
-🎓 Formado em Sistemas de Informação. <br>
-💸 Atualmente desenvolvendo o aplicativo Poupe Fácil, um sistema voltado ao controle de finanças pessoais. <br>
-🧩 Tenho interesse em desenvolvimento fullstack, atuando tanto no frontend, com foco em interfaces intuitivas, quanto no backend, estruturando APIs, lógica de negócio e integração com bancos de dados. <br>
-🌱 Atualmente estudando programação em Python. <br>
+Web development enjoyer.
 
 ---
 
@@ -24,7 +19,7 @@
 
 ---
 
-## Projeto em destaque
+## Projetos em destaque
 
 - [Poupe Fácil](https://github.com/Grecia702/projeto-TCC) — App mobile de gerenciamento de finanças pessoais.
 - [Driveubas](https://github.com/Grecia702/driveubas) — Website de servidor de armazenamento gerenciamento de arquivos.
